@@ -1,1 +1,7 @@
 I'm baby blog occupy cred artisan taiyaki VHS normcore try-hard four dollar toast vexillologist crucifix unicorn DIY palo santo offal. Hoodie jianbing you probably haven't heard of them migas jean shorts dreamcatcher. Beard quinoa fashion axe yuccie schlitz pok pok, vegan knausgaard pitchfork lo-fi iceland ascot post-ironic chicharrones selvage. Tumblr health goth cronut brunch bitters small batch pork belly typewriter vice literally. Hot chicken vegan cold-pressed pug pickled, pop-up snackwave.
+
+Teaskdj aslkdjf aselfkj awleksjfaskrejf fa ser asdfasdlfkja ;lkj aksjdf  
+git add .
+git commit
+git status
+git push 
